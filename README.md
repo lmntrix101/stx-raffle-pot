@@ -34,7 +34,7 @@
 
 ---
 
-## 🔧 Smart Contract Functions
+ Smart Contract Functions
 
 | Function          | Access  | Description                                 |
 |------------------|---------|---------------------------------------------|
